@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TMD.Coinbase.PricePrediction", "TMD.Coinbase.PricePrediction\TMD.Coinbase.PricePrediction.csproj", "{FF28DD9F-2BB5-48F4-B64C-8A954B9331FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TMDInvestments.Models", "..\TMDInvestments.Models\TMDInvestments.Models\TMDInvestments.Models.csproj", "{C7E6BC4C-0380-4913-8915-01B2BF0FA952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF28DD9F-2BB5-48F4-B64C-8A954B9331FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF28DD9F-2BB5-48F4-B64C-8A954B9331FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF28DD9F-2BB5-48F4-B64C-8A954B9331FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF28DD9F-2BB5-48F4-B64C-8A954B9331FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E6BC4C-0380-4913-8915-01B2BF0FA952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E6BC4C-0380-4913-8915-01B2BF0FA952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E6BC4C-0380-4913-8915-01B2BF0FA952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E6BC4C-0380-4913-8915-01B2BF0FA952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA55E714-A74C-4C28-9396-65E5B134522C}
+	EndGlobalSection
+EndGlobal
