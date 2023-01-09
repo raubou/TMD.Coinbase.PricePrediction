@@ -5,6 +5,7 @@ using System.Text;
 using System.Text.Json;
 using TMDInvestment.Models;
 using TMDInvestment;
+using TMDInvestments.Models;
 
 namespace TMD.Coinbase.PricePrediction.Services
 {

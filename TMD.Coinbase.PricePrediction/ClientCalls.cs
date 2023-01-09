@@ -7,6 +7,7 @@ using System.Text.Json;
 using TMDInvestment;
 using TMDInvestment.APIProxy;
 using TMDInvestment.Models;
+using TMDInvestments.Models;
 
 namespace TMD.Coinbase.PricePrediction
 {

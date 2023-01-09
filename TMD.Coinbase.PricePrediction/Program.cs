@@ -6,6 +6,7 @@ using TMD.Coinbase.PricePrediction.Services;
 using TMDInvestment;
 using TMDInvestment.Models.Helpers;
 using TMDInvestment.Models;
+using TMDInvestments.Models;
 
 namespace TMD.Coinbase.PricePrediction
 {
